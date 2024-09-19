@@ -3,7 +3,7 @@ _start:
   	mov r3, #100
 	ldr r0, =vector
 	ldr r1, [r0]
-	add r3, r3, r1
+	add r3, r3, #65
 	b done
 
 done:
