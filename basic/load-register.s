@@ -1,6 +1,6 @@
 .global _start
 _start:
-  mov r3, #0
+  	mov r3, #0
 	ldr r0, =vector
 	ldr r1, [r0]
 	add r3, r3, r1
