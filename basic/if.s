@@ -3,7 +3,7 @@ _start:
 	mov r0, #5
 	mov r1, #8
 	cmp r0, r1
-	beq minus_number
+	blt minus_number
 
 carry_on:
 	mov r1, #8 
