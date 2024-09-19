@@ -4,7 +4,6 @@ _start:
 	mov r1, #8
 	cmp r0, r1
 	blt minus_number
-
 carry_on:
 	mov r1, #8 
 
