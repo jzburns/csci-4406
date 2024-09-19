@@ -6,6 +6,6 @@ _start:
 	blt minus_number
 carry_on:
 	mov r1, #8 
-
+ 
 minus_number:
 	mov r5, #1
