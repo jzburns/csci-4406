@@ -7,7 +7,7 @@ _start:
 	b done
 
 done:
-	svc #0
+	svc 2
 	
 .data
 	vector: .word 0,1,2,3
