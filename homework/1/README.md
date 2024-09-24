@@ -12,5 +12,4 @@
 3. Implement your two changes in code, and include the code in your answer document. Include detailed comments in your code. [**50 marks**]
 
 **Cut-off date:** Thursday October 3rd at 8PM.
-
-Submission type: One single PDF file submitted via Blackboard only. Not other submission mechanism will be accepted.
+**Submission type:** One single PDF file submitted via Blackboard only. Not other submission mechanism will be accepted.
