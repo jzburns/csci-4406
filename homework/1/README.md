@@ -11,6 +11,6 @@
 2. You have been asked to improve this program. Suggest two key changes you would make and why you would make them (minimum word count 100) [25 marks]
 3. Implement your two changes in code, and include the code in your answer document. Include detailed comments in your code. [50 marks]
 
-**Cut-off date: ** Thursday October 3rd at 8PM.
+**Cut-off date:** Thursday October 3rd at 8PM.
 
 Submission type: One single PDF file submitted via Blackboard only. Not other submission mechanism will be accepted.
