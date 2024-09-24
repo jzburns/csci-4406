@@ -1,4 +1,4 @@
-# this is the ``homework 1`` README.md
+# ``Homework 1`` README.md
 
 ### Please note
 1. This is an individual assignment
