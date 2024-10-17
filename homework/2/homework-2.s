@@ -9,7 +9,7 @@ to_upper:
 to_lower:
 	
 data:
-	test_case_1: .asciz "... INTERESTING test data here: likE this @ SIGn and the % sign TOo!"
+	test_case_1: .asciz "... This STRIng conTainS test data: likE the AT @ SIGn and the PERCent % sign TOo!"
 	
 	// test_case_2 is up to you to define 
 	test_case_2: .asciz ""
