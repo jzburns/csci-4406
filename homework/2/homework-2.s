@@ -1,6 +1,6 @@
 .global _start
 _start:
-	
+	// load the test case string here
 	bl to_upper
 	bl to_lower
 
